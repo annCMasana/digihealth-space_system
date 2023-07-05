@@ -30,7 +30,7 @@
                 <div class="login-form-header">
                      <img src="./data/icons/padlock.png" alt="login-icon" style="max-width:64px">
                      <div class="login-header">
-                         <h4 class="bold color-white">Login Now!!</h4>
+                         <h4 class="bold color-white">Login Now!!!</h4>
                          <h4><small>Please enter your credentials to login.</small></h4>
                      </div>
                 </div>
